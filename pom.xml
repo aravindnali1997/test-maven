@@ -26,7 +26,8 @@
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
-            </plugin>
+     </plugin>
+    <finalName>MavenWebApp</finalName>
   </build>
   
   
